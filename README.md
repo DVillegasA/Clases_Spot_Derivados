@@ -9,3 +9,4 @@ Consolidado de notas tomadas durante el desarrollo del taller de Spots y Derivad
 | 1 | [Conceptos básicos, FX Spots e Interbancarios](/Clases/20240122_Clase1.md) | 22/01/2024 |
 | 2 | [FX Forward](/Clases/20240123_Clase2.md)                                   | 23/01/2024 |
 | 3 | [Opciones](/Clases/20240124_Clase3.md)                                     | 24/01/2024 |
+| 4 | [Swap de Tasas](/Clases/20240125_Clase4.md)                                | 25/01/2024 |
